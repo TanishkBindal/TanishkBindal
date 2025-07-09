@@ -1,8 +1,16 @@
 
 ### Hi there 👋, My name is Tanishk Bindal
 #### Welcome to my Github Profile
-![Welcome to my Github Profile](https://raw.githubusercontent.com/vinitsangoi/vinitsangoi/main/Vinit%20Sangoi%20(4).png)
-
+<p align="center" >
+<table> 
+  <tr>
+    <td style ="border: 10px solid #000000; padding: 20px; ">
+         <img 
+  src = "https://github.com/user-attachments/assets/bf210cac-2afd-4e72-843d-6372dafe5900"
+   width = "max">
+    </td>
+  </tr>
+</table>
 As a data analyst, I have a strong foundation in data management and analysis. My expertise lies in identifying trends and patterns in large and complex data sets and using that knowledge to drive business success. I am skilled in a variety of data analysis tools, and techniques, including data visualization, statistical analysis, data mining, and creative dashboards. I am passionate about turning data into insights and solutions, and I am always seeking new ways to drive data-driven decision making.
 
 # 💫 About Me:
