@@ -11,7 +11,9 @@ I’m a driven and detail-oriented aspiring Data Analyst with a passion for leve
 # 💫 About Me :
 🎓 Final Year Btech (Electrical Engineering) Student at Aligarh Muslim University<br>🔍 Passionate about Data Analytics and Problem Solving<br>💼 Completed IBM Professional Data Analytics Course<br>🌱 I’m currently working on different Projects by incorporating various Tools<br>⚡ _“Empowering decisions through data !”_<br>💬 How to reach me tanishkbindal@gmail.com<br>
 
-<img align ="right" alt ="Data Analysis" width ="400" src=" https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1SqUVNKKM4mCT_aQACBpMA&ust=1752160046521000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPCFj_uGsI4DFQAAAAAdAAAAABAE">
+<p align ="right" alt ="Data Analysis" width ="400" >
+    <img src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966"/>
+</p>
 
 ## 🌐 Socials :
 [<img src='https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/tanishk-bindal//)   [<img src='https://github.com/TanishkBindal/TanishkBindal/blob/main/WhatsApp%20Image%202025-07-09%20at%2018.00.40_e3665474.jpg?raw=true' alt='linktree' height='40'>](https://linktr.ee/tanishkbindal)
