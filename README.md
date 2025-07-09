@@ -1,25 +1,30 @@
-### Hi there 👋, my name is Tanishk Bindal
-#### Welcome to my Github Profile
+### Hi there 👋, my name is Tanishk Bindal<br>
+### Aspiring Data Analyst
+#### Welcome to my Github Profile -
 
+<p align="center">
+  <img src = "https://github.com/TanishkBindal/TanishkBindal/blob/main/1736769513916.jpeg?raw=true"/>
+</p>
 
+I’m a driven and detail-oriented aspiring Data Analyst with a passion for leveraging data to solve real-world problems, uncover patterns, and enable data-driven decision-making. Proficient in SQL, Power BI, Excel, and Python, I enjoy working at the intersection of numbers and storytelling—whether it’s visualizing trends, writing complex queries, cleaning messy datasets, or uncovering insights. Curious by nature and analytical by mindset, I strive to ask the right questions and deliver meaningful answers. My goal is to grow into a confident data professional who can not only interpret data but also communicate its story with clarity, impact, and integrity.
 
+# 💫 About Me :
+🎓 Final Year Btech (Electrical Engineering) Student at Aligarh Muslim University<br>🔍 Passionate about Data Analytics and Problem Solving<br>💼 Completed IBM Professional Data Analytics Course<br>🌱 I’m currently working on different Projects by incorporating various Tools<br>⚡ _“Empowering decisions through data !”_<br>💬 How to reach me tanishkbindal@gmail.com<br>
 
-# 💫 About Me:
-🎓 Final Year Btech (Electrical Engineering) Student at Aligarh Muslim University<br>🔍 Passionate about Data Analytics and Problem Solving<br>💼 Completed IBM Professional Data Analytics Course<br>🌱 I’m currently working on different Projects by incorporating various Tools<br>💬 How to reach me tanishkbindal@gmail.com<br><br>⚡ _“Empowering decisions through data!”_
+<img align ="right" alt ="Data Analysis" width ="400" src=" https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1SqUVNKKM4mCT_aQACBpMA&ust=1752160046521000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPCFj_uGsI4DFQAAAAAdAAAAABAE">
 
-
-## 🌐 Socials:
+## 🌐 Socials :
 [<img src='https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/tanishk-bindal//)   [<img src='https://github.com/TanishkBindal/TanishkBindal/blob/main/WhatsApp%20Image%202025-07-09%20at%2018.00.40_e3665474.jpg?raw=true' alt='linktree' height='40'>](https://linktr.ee/tanishkbindal)
 
 
-# 💻 Skills:
+# 💻 Skills :
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![MySQL](https://img.shields.io/badge/sql-4479A1.svg?style=for-the-badge&logo=sql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-# 📊 GitHub Stats:
+# 📊 GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=TanishkBindal&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 
 
-### ✍️ Quote :
+## ✍️ Quote :
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
