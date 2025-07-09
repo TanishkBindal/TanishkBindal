@@ -6,7 +6,7 @@
   <img src = "https://github.com/TanishkBindal/TanishkBindal/blob/main/1736769513916.jpeg?raw=true"/>
 </p>
 
-I’m a driven and detail-oriented aspiring Data Analyst with a passion for leveraging data to solve real-world problems, uncover patterns, and enable data-driven decision-making. Proficient in SQL, Power BI, Excel, and Python, I enjoy working at the intersection of numbers and storytelling—whether it’s visualizing trends, writing complex queries, cleaning messy datasets, or uncovering insights. Curious by nature and analytical by mindset, I strive to ask the right questions and deliver meaningful answers. My goal is to grow into a confident data professional who can not only interpret data but also communicate its story with clarity, impact, and integrity.
+I’m a driven and detail-oriented aspiring Data Analyst with a passion for leveraging data to solve real-world problems, uncover patterns, and enable data-driven decision-making. Proficient in SQL, Power BI, Excel, and Python. Possess foundational knowledge of Machine Learning, Statistics, and cloud platform such as Microsoft Azure. I enjoy working at the intersection of numbers and storytelling—whether it’s visualizing trends, writing complex queries, cleaning messy datasets, or uncovering insights. Curious by nature and analytical by mindset, I strive to ask the right questions and deliver meaningful answers. My goal is to grow into a confident data professional who can not only interpret data but also communicate its story with clarity, impact, and integrity.
 
 # 💫 About Me :
 🎓 Final Year Btech (Electrical Engineering) Student at Aligarh Muslim University<br>🔍 Passionate about Data Analytics and Problem Solving<br>💼 Completed IBM Professional Data Analytics Course<br>🌱 I’m currently working on different Projects by incorporating various Tools<br>⚡ “Empowering decisions through data !”<br>💬 How to reach me tanishkbindal@gmail.com<br>
@@ -15,7 +15,7 @@ I’m a driven and detail-oriented aspiring Data Analyst with a passion for leve
    width= "800" height="300"/>
 </div>
 
-## 🌐 Socials :
+# 🌐 Socials :
 [<img src='https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/tanishk-bindal//)   [<img src='https://github.com/TanishkBindal/TanishkBindal/blob/main/WhatsApp%20Image%202025-07-09%20at%2018.00.40_e3665474.jpg?raw=true' alt='linktree' height='40'>](https://linktr.ee/tanishkbindal)
 
 
@@ -26,7 +26,7 @@ I’m a driven and detail-oriented aspiring Data Analyst with a passion for leve
 
 
 
-## ✍️ Quote :
+# ✍️ Quote :
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
