@@ -9,7 +9,7 @@
 I’m a driven and detail-oriented aspiring Data Analyst with a passion for leveraging data to solve real-world problems, uncover patterns, and enable data-driven decision-making. Proficient in SQL, Power BI, Excel, and Python. Possess foundational knowledge of Machine Learning, Statistics, and cloud platform such as Microsoft Azure. I enjoy working at the intersection of numbers and storytelling—whether it’s visualizing trends, writing complex queries, cleaning messy datasets, or uncovering insights. Curious by nature and analytical by mindset, I strive to ask the right questions and deliver meaningful answers. My goal is to grow into a confident data professional who can not only interpret data but also communicate its story with clarity, impact, and integrity.
 
 # 💫 About Me :
-🎓 Final Year Btech (Electrical Engineering) Student at Aligarh Muslim University<br>🔍 Passionate about Data Analytics and Problem Solving<br>💼 Completed IBM Professional Data Analytics Course<br>🌱 I’m currently working on different Projects by incorporating various Tools<br>⚡ “_Empowering decisions through data_ !”<br>💬 How to reach me - tanishkbindal@gmail.com<br>
+🎓 Final Year Btech (Electrical Engineering) Student at Aligarh Muslim University<br>🔍 Passionate about Data Analytics and Problem Solving<br>💼 Completed IBM Professional Data Analytics Course<br>💼 Completed Cisco Data Analytics Essentials Course<br>🌱 I’m currently working on different Projects by incorporating various Tools<br>⚡ “_Empowering decisions through data_ !”<br>💬 How to reach me - tanishkbindal@gmail.com<br>
 <div align= "center">
  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
    width= "800" height="300"/>
