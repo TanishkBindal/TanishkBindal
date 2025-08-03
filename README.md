@@ -1,3 +1,4 @@
+<a name = "top"></a>
 ### Hi there👋<br>
 ### I'm Tanishk Bindal, an aspiring Data Analyst from India.
 #### Welcome to my Github Profile -
@@ -29,7 +30,7 @@ I’m a driven and detail-oriented aspiring Data Analyst with a passion for leve
 # ✍️ Quote :
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-
+[[Back to Top]](#top)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
