@@ -30,9 +30,10 @@ I’m a driven and detail-oriented aspiring Data Analyst with a passion for leve
 # ✍️ Quote :
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<p align = "right">
-   <a href="#top"> (🔝 Back to Top) </a>
-   </p>
+<p align="right">(<a href="#top">Back to top</a>)</p>
+</p> 
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
