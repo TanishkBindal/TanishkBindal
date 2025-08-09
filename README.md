@@ -17,7 +17,7 @@ I’m a driven and detail-oriented aspiring Data Analyst with a passion for leve
 </div>
 
 # 🌐 Connect with me :
-[<img src='https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/tanishk-bindal//)   [<img src='https://github.com/TanishkBindal/TanishkBindal/blob/main/WhatsApp%20Image%202025-07-09%20at%2018.00.40_e3665474.jpg?raw=true' alt='linktree' height='40'>](https://linktr.ee/tanishkbindal)
+[<img src='https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png' alt='linkedin' height='50'>](https://www.linkedin.com/in/tanishk-bindal//) &nbsp;   [<img src='https://github.com/TanishkBindal/TanishkBindal/blob/main/WhatsApp%20Image%202025-07-09%20at%2018.00.40_e3665474.jpg?raw=true' alt='linktree' height='60'>](https://linktr.ee/tanishkbindal)
 
 
 # 💻 Skills :
