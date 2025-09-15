@@ -1,6 +1,6 @@
 <a name = "top"></a>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF7F&height=250&section=header&text=Hi%2C%20I'm%20Tanishk%20Bindal&fontSize=40&fontColor=ffffff&desc=Final-year%20Undergrad%20at%20Aligarh%20Muslim%20University%20(AMU)&descSize=20&descAlign=50&descAlignY=60&fontAlignY=38&animation=fadeIn" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=250&section=header&text=Hi%2C%20I'm%20Tanishk%20Bindal&fontSize=40&fontColor=ffffff&desc=Final-year%20Undergrad%20at%20Aligarh%20Muslim%20University%20(AMU)&descSize=20&descAlign=50&descAlignY=60&fontAlignY=38&animation=fadeIn" alt="header" />
 </div>
 
 <p align="center">
