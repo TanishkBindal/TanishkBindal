@@ -68,7 +68,9 @@ I’m a driven and detail-oriented aspiring Data Analyst with a passion for leve
 </div>
 
 
-<h4 align="center">_Always building, always learning_ 🔍</h4>
+<h4 align="center"
+   style ="font-size:50px;
+   font-weight:bold;">_Always building, always learning_ 🔍</h4>
 
 <p align="right">(<a href="#top">Back to top</a>)</p>
 </p> 
