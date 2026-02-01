@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=3BC2F2&center=true&vCenter=true&width=435&lines=Aspiring+Data+Analyst;Aspiring+Business+Analyst;Bridging+Data+and+Decisions;Data+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=3BC2F2&center=true&vCenter=true&width=435&lines=Aspiring+Data+Analyst;Aspiring+Business+Analyst;Aspiring+PowerBI+Developer;Bridging+Data+and+Decisions;Data+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -47,9 +47,8 @@ I’m a driven and detail-oriented aspiring Data Analyst with a passion for leve
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)&nbsp;
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp; 
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)&nbsp;
 ![Statistics](https://img.shields.io/badge/Statistics-4B8BBE?style=for-the-badge&logo=graph&logoColor=white)&nbsp;
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0078D4?style=for-the-badge&logo=mlflow&logoColor=white)
+
 
 
 <div align="center">
