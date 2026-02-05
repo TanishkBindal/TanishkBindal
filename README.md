@@ -56,7 +56,7 @@ I’m a driven and detail-oriented aspiring Data Analyst with a passion for leve
 </div>
 
 # <a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="50px"></a> Connect with me 
-[<img src='https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png' alt='linkedin' height='50'>](https://www.linkedin.com/in/tanishk-bindal//) &nbsp;   [<img src='https://github.com/TanishkBindal/TanishkBindal/blob/main/WhatsApp%20Image%202025-07-09%20at%2018.00.40_e3665474.jpg?raw=true' alt='linktree' height='50'>](https://linktr.ee/tanishkbindal)
+[<img src='https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png' alt='linkedin' height='50'>](https://www.linkedin.com/in/tanishk-bindal//) &nbsp;   [<img src= 'https://play-lh.googleusercontent.com/QbavRFj9bwEj8Wm3mIfOG781pUoPIWdOGEnOGKk35mf_M5AvIEhDhyEP7ZfQFwpzPwM' height='50' >](https://linktr.ee/tanishkbindal)
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
